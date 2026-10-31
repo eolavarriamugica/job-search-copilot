@@ -1,0 +1,11 @@
+{
+  "name": "job-search-copilot",
+  "owner": { "name": "job-search-copilot" },
+  "plugins": [
+    {
+      "name": "job-search-copilot",
+      "source": "./",
+      "description": "End-to-end job search for Claude: find roles, score fit honestly, tailor CVs from verified facts only, referrals, interview prep and one tracker. Drafts only."
+    }
+  ]
+}

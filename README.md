@@ -89,8 +89,8 @@ If you fill the copies inside the plugin folder, **never push them to a public r
 
 **Claude Code / Cowork (plugin):**
 ```
-/plugin marketplace add <your-github-user>/job-search-copilot
-/plugin install job-search-copilot
+/plugin marketplace add eolavarriamugica/job-search-copilot
+/plugin install job-search-copilot@job-search-copilot
 ```
 Or clone the repo and point Claude at the folder as a local plugin.
 
