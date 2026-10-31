@@ -1,0 +1,7 @@
+{
+  "name": "job-search-copilot",
+  "version": "0.1.0",
+  "description": "A job search workflow for Claude: find roles, score fit honestly, tailor CVs from verified facts only, map referrals, prep interviews and keep one tracker up to date. Drafts only, never sends.",
+  "license": "MIT",
+  "keywords": ["job search", "cv", "resume", "interview prep", "referrals", "career"]
+}

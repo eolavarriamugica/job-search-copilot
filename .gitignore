@@ -1,0 +1,4 @@
+my-profile/
+*.local.md
+.DS_Store
+~$*
